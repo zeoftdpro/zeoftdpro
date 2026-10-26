@@ -37,7 +37,7 @@
   <!-- Monogramme TD : le T et le D partagent le même trait vertical, il se dessine à l'ouverture -->
   <svg x="72" y="70" width="120" height="120" viewBox="0 0 32 32">
     <rect width="32" height="32" rx="7" fill="#1c231f"/>
-    <path class="draw" pathLength="1" d="M6 9H16.5A7 7 0 0 1 16.5 23H14.5M14.5 9V23" fill="none" stroke="#5fd38d" stroke-width="2.6"/>
+    <path class="draw" pathLength="1" d="M6 9H16.5A7 7 0 0 1 16.5 23H14.5V9" fill="none" stroke="#5fd38d" stroke-width="2.6"/>
   </svg>
 
   <text class="fade d1" x="232" y="124" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="700" fill="#e6ebe7" letter-spacing="-1.5">Thomas Delhay</text>
