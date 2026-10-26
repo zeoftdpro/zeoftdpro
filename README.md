@@ -3,47 +3,92 @@
   <img src="assets/banniere-light.svg" alt="Thomas Delhay, développeur, BTS SIO option SLAM, disponible pour une alternance ou un stage" width="100%">
 </picture>
 
-## Bonjour 👋
+<p align="center">
+  <a href="https://thomas-delhay.vercel.app"><img src="https://img.shields.io/badge/Mon_portfolio-thomas--delhay.vercel.app-1f7a4d?style=for-the-badge&logo=vercel&logoColor=white" alt="Mon portfolio"></a>
+  <a href="mailto:zeoftd.pro@gmail.com"><img src="https://img.shields.io/badge/M%E2%80%99%C3%A9crire-zeoftd.pro%40gmail.com-18201b?style=for-the-badge&logo=gmail&logoColor=5fd38d" alt="M’écrire"></a>
+</p>
 
-J’ai appris à coder en 2022 en créant des addons Lua pour Garry’s Mod, jusqu’à gérer des serveurs de jeu et travailler en équipe avec d’autres développeurs. Aujourd’hui, je conçois des applications web et de bureau complètes, de l’interface au serveur, et j’intègre l’IA quand elle sert vraiment.
+## 👋 Bonjour
 
-- 🎓 BTS SIO option SLAM, 1re année
-- 🔎 Je cherche une **alternance ou un stage** en développement
-- 🌐 Mon portfolio : **[thomas-delhay.vercel.app](https://thomas-delhay.vercel.app)**
+Tout a commencé en 2022 sur **Garry’s Mod** : j’ai appris le Lua en créant mes propres addons, puis je me suis retrouvé à gérer des serveurs de jeu et à travailler en équipe avec d’autres développeurs.
 
-## Projets
+Depuis, je code surtout mes propres projets : des sites, des logiciels de bureau, parfois avec un peu d’IA dedans. Ce que j’aime, c’est aller jusqu’au bout, de la première idée jusqu’à la mise en ligne.
 
-| Projet | Ce que c’est | Stack |
-|---|---|---|
-| **[Velora Board](https://github.com/zeoftdpro/velora-board)** · [démo](https://velora-board.vercel.app) | Kanban collaboratif en temps réel : curseurs en direct, glisser-déposer synchronisé, gestion des modifications simultanées | Next.js, Express, Socket.io, PostgreSQL, Redis |
-| **[Velora Protect](https://github.com/zeoftdpro/velora-protect)** · [site](https://velora-protect.vercel.app) | Outil de sécurité : failles, secrets oubliés et code malveillant, test des sites en ligne, sauvegardes vérifiées, preuve d’antériorité | Python, Pyodide, JavaScript |
-| **[Velora Musique](https://github.com/zeoftdpro/velora-musique)** · [site](https://velora-musique.vercel.app) | Streaming musical sur le web, Windows et Android : lecteur HLS adaptatif, file d’attente, playlists, recherche | React, TypeScript, Fastify, PostgreSQL, Electron |
-| **Velora Agent IA** · [site](https://velora-ofm.vercel.app) <sub>(code privé : produit commercial)</sub> | Assistant IA pour les agences de créatrices : copilote qui propose des réponses, scripts de vente, prospection, formation, coach | Node.js, API LLM, Supabase, Stripe, Electron |
+<table>
+  <tr>
+    <td>🎓 <b>J’étudie</b><br>BTS SIO option SLAM, 1re année</td>
+    <td>🔎 <b>Je cherche</b><br>Une alternance ou un stage en développement</td>
+    <td>🛠️ <b>Je code depuis</b><br>2022</td>
+  </tr>
+</table>
 
-Les autres projets (Velora Drive, Velora IDE, Garry’s Mod) sont présentés sur [mon portfolio](https://thomas-delhay.vercel.app).
+## 🚀 Projets
 
-## Langages et outils
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zeoftdpro/velora-board"><img src="assets/projets/velora-board.webp" alt="Velora Board"></a>
+      <h3><a href="https://github.com/zeoftdpro/velora-board">Velora Board</a></h3>
+      Kanban collaboratif en <b>temps réel</b> : curseurs en direct, glisser-déposer synchronisé, chat, et gestion des modifications simultanées.
+      <br><br>
+      <code>Next.js</code> <code>Express</code> <code>Socket.io</code> <code>PostgreSQL</code> <code>Redis</code>
+      <br><br>
+      <a href="https://velora-board.vercel.app">▶ Voir la démo</a> · <a href="https://github.com/zeoftdpro/velora-board">Code source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zeoftdpro/velora-protect"><img src="assets/projets/velora-protect.webp" alt="Velora Protect"></a>
+      <h3><a href="https://github.com/zeoftdpro/velora-protect">Velora Protect</a></h3>
+      Outil de <b>sécurité</b> pour les projets de code : failles, secrets oubliés, code malveillant, test des sites en ligne, sauvegardes vérifiées et preuve d’antériorité.
+      <br><br>
+      <code>Python</code> <code>Pyodide</code> <code>JavaScript</code> <code>OSV.dev</code>
+      <br><br>
+      <a href="https://velora-protect.vercel.app">▶ Voir le site</a> · <a href="https://github.com/zeoftdpro/velora-protect">Code source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zeoftdpro/velora-musique"><img src="assets/projets/velora-musique.webp" alt="Velora Musique"></a>
+      <h3><a href="https://github.com/zeoftdpro/velora-musique">Velora Musique</a></h3>
+      <b>Streaming musical</b> sur le web, Windows et Android : lecteur HLS adaptatif, file d’attente, playlists et recherche instantanée.
+      <br><br>
+      <code>React</code> <code>TypeScript</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Electron</code>
+      <br><br>
+      <a href="https://velora-musique.vercel.app">▶ Voir le site</a> · <a href="https://github.com/zeoftdpro/velora-musique/releases/latest">⬇ Télécharger</a> · <a href="https://github.com/zeoftdpro/velora-musique">Code source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://velora-ofm.vercel.app"><img src="assets/projets/velora-ofm.webp" alt="Velora Agent IA"></a>
+      <h3><a href="https://velora-ofm.vercel.app">Velora Agent IA</a></h3>
+      <b>Assistant IA</b> pour les agences de créatrices : copilote qui propose des réponses aux chatters, scripts de vente, prospection, formation et coach chaque semaine.
+      <br><br>
+      <code>Node.js</code> <code>API LLM</code> <code>Supabase</code> <code>Stripe</code> <code>Electron</code>
+      <br><br>
+      <a href="https://velora-ofm.vercel.app">▶ Voir le site</a> · <sub>code privé (produit commercial)</sub>
+    </td>
+  </tr>
+</table>
 
-**Langages**
-![C#](https://img.shields.io/badge/C%23-1f7a4d?style=flat-square&logo=dotnet&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-1f7a4d?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1f7a4d?style=flat-square&logo=css&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-1f7a4d?style=flat-square&logo=lua&logoColor=white)
+<p align="center"><sub>Les autres projets (Velora Drive, Velora IDE, Garry’s Mod) sont présentés sur <a href="https://thomas-delhay.vercel.app">mon portfolio</a>.</sub></p>
 
-**Aussi pratiqués**
-![JavaScript](https://img.shields.io/badge/JavaScript-2d3a32?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2d3a32?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2d3a32?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-2d3a32?style=flat-square&logo=cplusplus&logoColor=white)
+## 🧰 Langages et outils
 
-**Frameworks et outils**
-![Node.js](https://img.shields.io/badge/Node.js-2d3a32?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-2d3a32?style=flat-square&logo=react&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2d3a32?style=flat-square&logo=electron&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-2d3a32?style=flat-square&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2d3a32?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-2d3a32?style=flat-square&logo=vercel&logoColor=white)
+<b>Langages</b><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,html,css,lua&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cs,html,css,lua&theme=light" alt="C#, HTML, CSS, Lua">
+</picture>
 
-## Me contacter
+<b>Aussi pratiqués</b><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,py,cpp,postgres&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,postgres&theme=light" alt="JavaScript, Python, C++, SQL">
+</picture>
 
-📫 **zeoftd.pro@gmail.com** · ou via le formulaire de [mon portfolio](https://thomas-delhay.vercel.app/#contact)
+<b>Frameworks et outils</b><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,react,electron,vite,git,vercel,supabase&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,electron,vite,git,vercel,supabase&theme=light" alt="Node.js, React, Electron, Vite, Git, Vercel, Supabase">
+</picture>
+
+## 📫 Me contacter
+
+Une proposition d’alternance, de stage ou un projet ? Écris-moi à **[zeoftd.pro@gmail.com](mailto:zeoftd.pro@gmail.com)** ou via le formulaire de [mon portfolio](https://thomas-delhay.vercel.app/#contact) : je réponds sous 48 heures.
