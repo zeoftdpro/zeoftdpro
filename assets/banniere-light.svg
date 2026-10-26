@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Thomas Delhay, développeur, BTS SIO option SLAM">
+  <rect width="1280" height="300" rx="20" fill="#f4f5f1"/>
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="20" fill="none" stroke="#c9cdc3"/>
+  <!-- Monogramme TD : le T et le D partagent le même trait vertical -->
+  <svg x="72" y="90" width="120" height="120" viewBox="0 0 32 32">
+    <rect width="32" height="32" rx="7" fill="#18201b"/>
+    <path d="M6 9H16.5A7 7 0 0 1 16.5 23H14.5M14.5 9V23" fill="none" stroke="#5fd38d" stroke-width="2.6"/>
+  </svg>
+  <text x="236" y="138" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#18201b" letter-spacing="-1.5">Thomas Delhay</text>
+  <text x="240" y="184" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#1f7a4d">Développeur · BTS SIO option SLAM</text>
+  <g transform="translate(240 214)">
+    <rect width="404" height="40" rx="20" fill="#fcfcf9" stroke="#c9cdc3"/>
+    <circle cx="24" cy="20" r="6" fill="#1f7a4d"/>
+    <text x="42" y="27" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#56605a">Disponible pour une alternance ou un stage</text>
+  </g>
+</svg>
