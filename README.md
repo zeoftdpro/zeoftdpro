@@ -10,17 +10,10 @@
 
 ## 👋 Bonjour
 
-Tout a commencé en 2022 sur **Garry’s Mod** : j’ai appris le Lua en créant mes propres addons, puis je me suis retrouvé à gérer des serveurs de jeu et à travailler en équipe avec d’autres développeurs.
-
-Depuis, je code surtout mes propres projets : des sites, des logiciels de bureau, parfois avec un peu d’IA dedans. Ce que j’aime, c’est aller jusqu’au bout, de la première idée jusqu’à la mise en ligne.
-
-<table>
-  <tr>
-    <td>🎓 <b>J’étudie</b><br>BTS SIO option SLAM, 1re année</td>
-    <td>🔎 <b>Je cherche</b><br>Une alternance ou un stage en développement</td>
-    <td>🛠️ <b>Je code depuis</b><br>2022</td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bonjour-dark.svg">
+  <img src="assets/bonjour-light.svg" alt="Tout a commencé en 2022 sur Garry’s Mod : j’ai appris le Lua en créant mes propres addons, puis je me suis retrouvé à gérer des serveurs de jeu et à travailler en équipe avec d’autres développeurs. Depuis, je code surtout mes propres projets : des sites, des logiciels de bureau, parfois avec un peu d’IA dedans. Ce que j’aime, c’est aller jusqu’au bout, de la première idée jusqu’à la mise en ligne. J’étudie : BTS SIO option SLAM, 1re année. Je cherche : une alternance ou un stage en développement. Je code depuis 2022." width="100%">
+</picture>
 
 ## 🚀 Projets
 
